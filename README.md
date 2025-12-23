@@ -1,3 +1,3 @@
 Web, systems-curious, sports science nerd
 
-Clean code, Svelte >>> everything else
+Clean code and best-practices fan
